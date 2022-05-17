@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 0,
+        "title" : "Croisier Mules",
+        "filter" : "Shoes",
+        "price" : 345,
+        "url" : "https://dhgh9590.github.io/forck_json/img/section3_5.png"
+    },
+    {
+        "id" : 1,
+        "title" : "Time out sneakers",
+        "filter" : "Shoes",
+        "price" : 381,
+        "url" : "https://dhgh9590.github.io/forck_json/img/section3_6.png"
+    },
+    {
+        "id" : 2,
+        "title" : "Archlight pumps",
+        "filter" : "Shoes",
+        "price" : 678,
+        "url" : "https://dhgh9590.github.io/forck_json/img/section3_7.png"
+    },
+    {
+        "id" : 3,
+        "title" : "Bethette sandals",
+        "filter" : "Shoes",
+        "price" : 865,
+        "url" : "https://dhgh9590.github.io/forck_json/img/section3_8.png"
+    }
+]
